@@ -1,4 +1,0 @@
-Proszę odpowiedzieć na pytanie za pomocą jakiego mechanizmu aplikacja wydrukowała w konsoli komunikat ‘new connection’?
-
-
-Aplikacja wydrukowała w konsoli komunikat za pomocą mechanizmu nasłuchiwania EventEmittera na event 'connection' który wywołuje się kiedy zostaje wykryte nowe połączenie do serwera
